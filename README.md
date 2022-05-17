@@ -73,4 +73,4 @@ Akosua Osei-Bonsu
 
 github
 @Jesse-Domey
-@akosuab
+@akosab
